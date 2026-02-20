@@ -3,5 +3,6 @@ Mi primer repositorio publico.
 <br>
 Holap!
 <h2>Ignorado.com</h2>
-<p>Parrafo para el conflicto</p>
+<p>Conflictooooo</p>
+<p>PERAR GENERAR CONFLICTO</p>
 
